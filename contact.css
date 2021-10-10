@@ -1,0 +1,51 @@
+
+.red {
+text-decoration: underline;
+display: flex;
+justify-content: center;
+  }
+  
+
+.email{
+display: flex;
+justify-content: center;
+    }
+
+.prenom{
+display: flex;
+justify-content: center;
+            }
+.nom{
+    display: flex;
+    justify-content: center;
+                }
+.formation{
+    display: flex;
+    justify-content: center;
+    }
+ .h1{
+    display: flex;
+    justify-content: center;
+        
+}
+.Infos{
+    display: flex;
+    justify-content: center;
+        
+}
+.entretien{
+    display: flex;
+    justify-content: center;
+}
+.sexe{
+    display: flex;
+    justify-content: center;
+}
+.message{
+    display: flex;
+    justify-content: center;
+}
+.envoyer{
+    display: flex;
+    justify-content: center;
+}
